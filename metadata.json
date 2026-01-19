@@ -1,0 +1,8 @@
+{
+  "name": "ChefIA - Seu Assistente de Cozinha Inteligente",
+  "description": "Crie receitas incríveis com o que você já tem em casa usando inteligência artificial.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
